@@ -71,7 +71,7 @@ h2 {
   font-size: 1.5rem;
   line-height: 1.7;
   position: relative;
-  background-image: linear-gradient(to bottom,transparent 90%,rgba(0, 0,0,1.85)0%, #020202),  url(images/galaxy.jpg);
+  background-image: linear-gradient(to bottom,transparent 90%,rgba(0, 0,0,1.85)0%, #020202),  url(images/background.jpg);
   background-size: cover;
   background-attachment: ;
 }
@@ -169,7 +169,7 @@ h3 {
   left: 30%;
 }
 .planent {
-  background-image: linear-gradient(to top,transparent 1010%,rgba(0,0,0,1.95) 70%, #020202), url(images/background.jpg);
+  background-image: linear-gradient(to top,transparent 1010%,rgba(0,0,0,1.95) 70%, #020202), url(images/galaxy.jpg);
   width: 100vw;
   height: 100vh;
   background-position: top;
