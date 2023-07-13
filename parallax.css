@@ -10,7 +10,7 @@ body {
   color: white;
 }
 .background {
-  background-image: linear-gradient(to bottom,transparent 60%,rgba(0,0,0,1.95) 70%, #020202), url("https://cdn.images.express.co.uk/img/dynamic/151/1200x712/4611489.jpg?r=1678269277496");
+  background-image: linear-gradient(to bottom,transparent 60%,rgba(0,0,0,1.95) 70%, #020202), url(images/planet.jpg);
   width: 100vw;
   height: 100vh;
   background-position: top;
